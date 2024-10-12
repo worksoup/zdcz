@@ -1,0 +1,13 @@
+[package]
+name = "zdcz"
+version = "0.0.1"
+authors = ["worksoup"]
+edition = "2021"
+readme = "README.md"
+repository = "https://github.com/worksoup/zdcz/"
+license = "MIT"
+
+[dependencies]
+proc-macro2 = "1"
+syn = "2"
+quote = "1"
